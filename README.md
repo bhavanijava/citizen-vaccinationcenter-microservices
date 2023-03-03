@@ -21,6 +21,7 @@ Json Response:
 }
 ```
 Vaccination-Center
+------------------
 ```bhavani
 URL:-http://localhost:8002/vaccinationCenter/add
 http method: POST
