@@ -26,7 +26,6 @@ Vaccination-Center
 URL:-http://localhost:8002/vaccinationCenter/add
 http method: POST
 ```
------------------
 ```bhavani
 Json Request:
 ```bhavani
