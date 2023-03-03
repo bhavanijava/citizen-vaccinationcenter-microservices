@@ -68,6 +68,6 @@ Json Response:
 ```
 About Application
 ------------------
-In this application i created 2 microservices they are 1) citizen-service 2) vaccination-center-service after i register these two applications into eureka server and also created communation between citizen-service to vaccination-center-service microservices by using RestTemplate class:
+In this application i created 2 microservices they are 1) citizen-service 2) vaccination-center-service after i register these two applications into eureka server and also created communation between citizen-service to vaccination-center-service microservices by using RestTemplate class.
 #### Conclusion :-
-Finally i perform some operations on these two microservices applications
+Finally i perform some operations on these two microservices applications.
