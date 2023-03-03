@@ -20,3 +20,25 @@ Json Response:
     "vaccinationCenterId": 2001
 }
 ```
+Vaccination-Center
+-----------------
+```bhavani
+Json Request:
+```bhavani
+{
+    "id":2001,
+    "centerName":"center-1",
+    "centerAddress":"hyderabad"
+}
+```
+Json Response:
+```bhavani
+{
+    "id": 2001,
+    "centerName": "center-1",
+    "centerAddress": "hyderabad"
+}
+```
+
+
+
